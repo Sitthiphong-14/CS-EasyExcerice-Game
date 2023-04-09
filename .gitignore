@@ -66,5 +66,6 @@ crashlytics-build.properties
 */Build/
 *.meta
 */ImportAssets/
-*/Nice Materials Pack 2/
+*/NiceMaterialsPack2/
 */TerrainTexturesPackFree/
+*.psd
